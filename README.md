@@ -1,1 +1,1 @@
-# COMP3231-
+# COMP3231-operating system
